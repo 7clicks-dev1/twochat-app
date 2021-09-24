@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Two chat",
+    "slug": "two_chat_app",
+    "version": "0.0.1",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Two chat"
+}
